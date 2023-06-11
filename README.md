@@ -1,11 +1,24 @@
 # 53zot_vote
-<img width="766" alt="截屏2023-06-10 19 35 12" src="https://github.com/notsojay/53zot_vote/assets/71242774/98b3e61a-ee66-4a95-af0d-56590c131492">
-<img width="726" alt="截屏2023-06-10 19 38 37" src="https://github.com/notsojay/53zot_vote/assets/71242774/7fa0e20f-2f1a-4c87-aa7d-fd846e76cf87">
-<img width="729" alt="截屏2023-06-10 19 37 36" src="https://github.com/notsojay/53zot_vote/assets/71242774/48227db8-531c-4ea1-935c-5f5b0a09ada9">
-<img width="705" alt="截屏2023-06-10 19 36 51" src="https://github.com/notsojay/53zot_vote/assets/71242774/5bb54074-11ab-4d7c-bd82-3929b10d2f0f">
-<img width="702" alt="截屏2023-06-10 19 37 00" src="https://github.com/notsojay/53zot_vote/assets/71242774/17c079de-d7c8-42f3-bc4a-3be3a3cfd8f5">
-<img width="726" alt="截屏2023-06-10 19 35 44" src="https://github.com/notsojay/53zot_vote/assets/71242774/5e1a69de-1462-44ff-b21c-b6097663c164">
-<img width="726" alt="截屏2023-06-10 19 35 53" src="https://github.com/notsojay/53zot_vote/assets/71242774/11db5ff1-8508-4d89-b6d3-fb2a88f5becc">
-<img width="725" alt="截屏2023-06-10 19 36 01" src="https://github.com/notsojay/53zot_vote/assets/71242774/03b0cb25-f0b0-489f-9d17-2a21472e50f0">
-<img width="724" alt="截屏2023-06-10 19 36 19" src="https://github.com/notsojay/53zot_vote/assets/71242774/a2953cb0-9180-49de-95e4-9e7e9f0cdb65">
-<img width="722" alt="截屏2023-06-10 19 36 29" src="https://github.com/notsojay/53zot_vote/assets/71242774/c478c298-f687-4922-8935-869b9d440c84">
+https://beej.us/guide/bgnet/
+https://sourceware.org/gdb/onlinedocs/gdb/Threads.html
+https://beej.us/guide/bgnet/
+https://www.wireshark.org/
+https://www.tcpdump.org/manpages/tcpdump.1.html
+
+<img width="819" alt="截屏2023-06-10 19 41 22" src="https://github.com/notsojay/53zot_vote/assets/71242774/9e8eb29c-5542-4868-b38a-d4013f4863ac">
+
+<img width="819" alt="截屏2023-06-10 19 41 43" src="https://github.com/notsojay/53zot_vote/assets/71242774/21fe9bdf-8e8e-4fe0-a69a-fba0e1b3daf4">
+
+<img width="819" alt="截屏2023-06-10 19 42 19" src="https://github.com/notsojay/53zot_vote/assets/71242774/d1668283-cfac-470f-8e74-d6d348281103">
+
+<img width="819" alt="截屏2023-06-10 19 42 33" src="https://github.com/notsojay/53zot_vote/assets/71242774/a44f33d7-e554-4989-98ed-759bdb015fd0">
+<img width="819" alt="截屏2023-06-10 19 42 44" src="https://github.com/notsojay/53zot_vote/assets/71242774/d0a99e83-cc65-4370-8acd-c1080b4307fe">
+
+<img width="819" alt="截屏2023-06-10 19 43 04" src="https://github.com/notsojay/53zot_vote/assets/71242774/ad66f63a-9898-403d-a99f-eeb3f7dc1ec9">
+<img width="819" alt="截屏2023-06-10 19 43 14" src="https://github.com/notsojay/53zot_vote/assets/71242774/00a3d4b6-109d-4569-ba52-f6bb36f7cc32">
+
+<img width="819" alt="截屏2023-06-10 19 43 25" src="https://github.com/notsojay/53zot_vote/assets/71242774/a5a91fa1-1228-4d92-8bfd-328765c18910">
+
+<img width="819" alt="截屏2023-06-10 19 43 36" src="https://github.com/notsojay/53zot_vote/assets/71242774/554a1209-880a-4987-9e48-e4bd72eaafb4">
+
+<img width="819" alt="截屏2023-06-10 19 44 05" src="https://github.com/notsojay/53zot_vote/assets/71242774/74eeefd5-3b25-4d31-9158-3de6af33e1b0">
