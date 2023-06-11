@@ -1,0 +1,9 @@
+CONNECTED jay
+jay PLIST
+jay VOTE 0 0 1
+jay STATS 1
+jay VOTE 1 0 3
+jay STATS 3
+jay LOGOUT
+RECONNECTED jay
+RECONNECTED jay
