@@ -1,9 +1,9 @@
 # 53zot_vote
-https://beej.us/guide/bgnet/
-https://sourceware.org/gdb/onlinedocs/gdb/Threads.html
-https://beej.us/guide/bgnet/
-https://www.wireshark.org/
-https://www.tcpdump.org/manpages/tcpdump.1.html
+https://beej.us/guide/bgnet/ <br>
+https://sourceware.org/gdb/onlinedocs/gdb/Threads.html <br>
+https://beej.us/guide/bgnet/ <br>
+https://www.wireshark.org/ <br>
+https://www.tcpdump.org/manpages/tcpdump.1.html <br>
 
 <img width="819" alt="截屏2023-06-10 19 41 22" src="https://github.com/notsojay/53zot_vote/assets/71242774/9e8eb29c-5542-4868-b38a-d4013f4863ac">
 
